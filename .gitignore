@@ -1,0 +1,4 @@
+# wallpapers
+.DS_Store
+.secrets
+.env
